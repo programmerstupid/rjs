@@ -58,11 +58,32 @@ class TheBestRjs(Rj,Rp):
 			RS: Ohh, mari morning em ostadi?
 			XYZ: -_-
 		"""
-
+		print """
+		      (Ping)
+		      XYZ : I will be a BIT late to the office?
+		      RS  : BIT / BYTE 
+		      XYZ : :-O
+                """
+                print """
+                      (ping)
+                      RS: Nenu cheppina pani entha varaku vachindhi?
+                      XYZ: Asalu time DORAKATLEDHU andi.
+                      RS : Ekkada DORUKUTHUNDHO cheppava naaku kavali?
+                """
+                print """
+                     XYZ: meekenti andi baney cheptharu chesthunna maaku VAACHIPOTHONDHI?
+                     RS : Ekkada VACHINDHI? (with a smirk in his face)
+                """
+                
 	def unpossible_to_understand(self, ):
 	# Really unpossible to understand these.
 	# Add here if you understand after 5-10 mins.
-		pass
+	        print """
+	              RS : So OPEN-stack docs chaduvthunnava?
+	              XYZ: No andi
+	              RS : So CLOSE-stack docs chaduvthunnava aithey?
+	        """
+		
 	
 	def lame_ones(self):
 	# Lamest of the lamest ones are here.
@@ -74,8 +95,20 @@ class TheBestRjs(Rj,Rp):
 		"""
  	   	print """
 			XYZ: Manually run chesdam adi..
-			RS: Enduku Womanly cheyalema?
+			RS: Enduku Womanually cheyalema?
 			XYZ: -_-
+		"""
+		print """
+		      RS : Node ni em chesav?
+		      XYZ: memu node ni eppudu muttukunnam andi?
+		      RS : Evaru muttukoru andaru TYPE chestharu hehehe
+		      XYZ: What the Dibidi? -_-
+		"""
+		print """
+		     RS: entha varaku vachindhi UPlift?
+		     XYZ: chesthunnam andi?
+		     RS: Ela rendu chethulatoh yethesava enti?
+		     XYZ:Seriously? -_-
 		"""
 
 	def just_rjs_rps(self):
@@ -110,7 +143,7 @@ class TheBestRjs(Rj,Rp):
 		
 		print """
 			(Mail)
-			TCS associates needs to following a dress code. Its also each ones responsibility to make maintain dress code among our colleagues.
+			Company associates needs to following a dress code. Its also each ones responsibility to make maintain dress code among our colleagues.
 			One of your team mate, XYZ has been very frequently wearing jeans in the Non Friday working days.
 			This is in opposition to our dress code rules. 
 			If somebody sees { TUV-DAS or any other higher official } , it not only an embarrassment for our team both also for entire  Cloud project and ericsson. 
@@ -121,15 +154,20 @@ class TheBestRjs(Rj,Rp):
 		print """
 			(ping)
 			XYZ askes some question
-			RP: It's is uneven from me to understand
+			RP: Root Cause : It was uneven to understand the 
+			correct objective of the complete received comments on 
+			all the files.
 		"""
 		print """
 			(ping)
 			XYZ: So how's Hungary?
 			RP: No water problem
 			XYZ: (lolololol)
-			RP: Sun shuts down early.
-			XYZ: -_-
+			ABC: How is Hungary?
+			RP: It is good but the only problem is that 
+			    the Sun shuts down early.
+			XYZ: :'D 
+			ABC: >:O DIBIDI the what?
 		"""
 
 	def the_joke_the_jokes(self):
@@ -137,7 +175,7 @@ class TheBestRjs(Rj,Rp):
 	# Add only 'the' jokes here the.
 		print """
 			(ping)
-			RP: What is the number of the ABC?
+			RP: Wath is the number of the ABC?
 			XYZ: -__-
 		"""
 		print """
@@ -150,6 +188,7 @@ class TheBestRjs(Rj,Rp):
 			RP: Is the PQR available?
 			XYZ: -_- (Enduku ra vadini kuda book cheskuntava?)
 		"""
+		
 
 	def tricky_riddles(self):
 	# Let's see if you'll be able to solve these riddles.
@@ -159,6 +198,12 @@ class TheBestRjs(Rj,Rp):
 			XYZ: I asked ppl to come for an interview tomorrow.
 			RS: I won't mind even if you have called them for an interview yesterday.
 			XYZ: ?
+		"""
+		print """
+		        (mail)
+		        Rp:Hi,
+                        Now you the answer from the team too. 
+                        XYZ: Ne baadha enti bammardhi?
 		"""
 
 	def classy_af(self):
